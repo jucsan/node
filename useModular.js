@@ -1,6 +1,5 @@
+//part 2 of modular.js
 var modular = require('./modular.js'),
-// directory = './',
-// extention = 'txt';
 directory = process.argv[2],
 extention = process.argv[3];
 
